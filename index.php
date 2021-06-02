@@ -30,7 +30,7 @@
                 <h2>Smart TV<br><span>LED</span><br> Samsung</h2>
                 <p>Quer receber em primeira mão nossas melhores promoções? Cadastre seu melhor email abaixo e fique por
                     dentro de todas
-                    promoções!</p>
+                    as novidades!</p>
                 <form id="myForm" onsubmit="insertEmail(); return false">
                     <input id="email" type="text" placeholder="Email" onblur="validateEmail()"
                         pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" required>
