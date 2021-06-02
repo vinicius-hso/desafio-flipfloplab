@@ -1,0 +1,9 @@
+CREATE DATABASE db_desafio;
+
+USE db_desafio;
+
+CREATE TABLE email(
+ID int(4) AUTO_INCREMENT,
+user_email varchar(50) NOT NULL,
+PRIMARY KEY (ID)
+);
