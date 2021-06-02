@@ -9,7 +9,7 @@ Construção de uma __Landing Page__ com campo de cadasro de emails e uma págin
 * PHP
 * MySQL
 
-![](https://github.com/vinicius-hso/desafio-flipfloplab/blob/main/desafio.gif)
+![](https://github.com/vinicius-hso/desafio-flipfloplab/blob/main/page-gif.gif)
 
 ## 🛠️ Configurando a máquina
 
